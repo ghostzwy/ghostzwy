@@ -36,14 +36,16 @@ Lihat semua proyek saya di [T[autan ke Repositori GitHub Anda](https://github.co
 
 
 
-<div align="center">
+<div align="center" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4, #45B7D1, #96E6A1); padding: 20px; border-radius: 10px;">
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7417A&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Danang+Satya+Pratama+%F0%9F%91%8B;A+Passionate+Software+Developer+%F0%9F%92%BB;Always+Learning+New+Things+%F0%9F%8C%B1" alt="Typing SVG" />
+
 </div>
 
 ---
 
 <div align="center">
-  
+
 ### 🌈 About Me
 
 </div>
@@ -88,6 +90,7 @@ class AboutMe:
 
 </div>
 
+
 <div align="center">
 
 ### 🚀 Deployments
@@ -96,4 +99,4 @@ class AboutMe:
 
 </div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=danangsatya&color=blueviolet)
+</div>
